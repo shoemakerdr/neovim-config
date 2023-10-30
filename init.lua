@@ -1,0 +1,2 @@
+require("shoemakerdr")
+print("hello")
